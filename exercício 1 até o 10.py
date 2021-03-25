@@ -1,4 +1,5 @@
-1)print ('Bem vindo ao meu programa para converter a temperatura de Celsius para Fahrenheit')
+#1
+print ('Bem vindo ao meu programa para converter a temperatura de Celsius para Fahrenheit')
 print()
 
 Celsius=float(input('Digite a temp em Celsius: '))
@@ -10,7 +11,8 @@ print()
 print("Obrigado por usar o programa!")
 
 
-2)print ('Bem vindo ao meu programa para converter a temperatura de Fahrenheit para Celsius')
+#2
+print ('Bem vindo ao meu programa para converter a temperatura de Fahrenheit para Celsius')
 print()
 
 Fahrenheit=float(input('Digite a temp em Fahrenheit: '))
@@ -22,7 +24,8 @@ print()
 print("Obrigado por usar o programa!")
 
 
-3)print ('Bem vindo ao meu programa para converter a temperatura de Celsius para Kelvin')
+#3
+print ('Bem vindo ao meu programa para converter a temperatura de Celsius para Kelvin')
 print()
 
 Celsius=float(input('Digite a temp em Celsius: '))
@@ -33,7 +36,8 @@ print(Celsius,"graus Celsius corresponde",Kelvin,"graus Kelvin")
 print()
 print("Obrigado por usar o programa!")
 
-4)print ('Bem vindo ao meu programa para converter a temperatura de Kelvin para Celsius')
+#4
+print ('Bem vindo ao meu programa para converter a temperatura de Kelvin para Celsius')
 print()
 
 Kelvin=float(input('Digite a temp em Celsius: '))
@@ -44,7 +48,8 @@ print(Kelvin,"graus Kelvin corresponde",Celsius,"graus Celsius")
 print()
 print("Obrigado por usar o programa!")
 
-5)print ('Bem vindo ao meu programa para converter a temperatura de Kelvin para Celsius')
+#5
+print ('Bem vindo ao meu programa para converter a temperatura de Kelvin para Celsius')
 print()
 try:
     Kelvin=float(input('Digite a temp em Celsius: '))
@@ -56,7 +61,8 @@ except:
 print()
 print("Obrigado por usar o programa!")
 
-6)print ('Bem vindo ao meu programa para converter a temperatura de Celsius para Rankine')
+#6
+print ('Bem vindo ao meu programa para converter a temperatura de Celsius para Rankine')
 print()
 try:
     Celsius =float(input('Digite a temp em Celsius: '))
@@ -68,7 +74,8 @@ except:
 print()
 print("Obrigado por usar o programa!")
 
-7)print ('esse programa é usado para converter Rankine para Celsius')
+#7
+print ('esse programa é usado para converter Rankine para Celsius')
 print()
 try:
     Rankine=float(input('Digite a temp em Rankine: '))
@@ -79,7 +86,8 @@ print("Voce deve digitar um numero")
 print()
 print("Obrigado por usar o programa!")
 
-8)print("Esse programa serve para converter graus Kelvin para Fahrenheit")
+#8
+print("Esse programa serve para converter graus Kelvin para Fahrenheit")
 print()
 try:
     Kelvin=float(input("Digite a sua temp em Kelvin: "))
@@ -90,14 +98,16 @@ print('Voce deve usar numeros')
 print()
 print('Obrigado por usar o programa')
 
-9)print("Esse programa serve para converter graus Fahrenheit para Rankine")
+#9
+print("Esse programa serve para converter graus Fahrenheit para Rankine")
 print()
 
 Fahrenheit=float(input("Digite a sua temp em Fahrenheit: "))
 Rankine=(491.67)*(Fahrenheit - 32)
 print(Fahrenheit,"graus Fahrenheit corresponde",Rankine,"graus Rankine")
 
-10)print("Esse programa serve para converter graus Fahrenheit para Rankine")
+#10
+print("Esse programa serve para converter graus Fahrenheit para Rankine")
 print()
 
 Rankine=float(input("Digite a sua temp em Fahrenheit: "))
